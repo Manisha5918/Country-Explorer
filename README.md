@@ -17,9 +17,6 @@ The platform combines country information, live APIs, data visualization, intera
 ## Country Details
 ![Country Details](screenshots/04-country-details.png)
 
-## Analytics Dashboard
-![Dashboard Analytics](screenshots/05-dashboard-analytics.png)
-
 ## Country Comparison
 ![Country Comparison](screenshots/06-country-comparison.png)
 
@@ -29,6 +26,8 @@ The platform combines country information, live APIs, data visualization, intera
 ## Bucket List Map
 ![Bucket List](screenshots/08-bucket-list-map.png)
 
+## Analytics Dashboard
+![Dashboard Analytics](screenshots/05-dashboard-analytics.png)
 
 ## Explorer Dashboard Features
 ![Dashboard Features](screenshots/02-home-dashboard-features.png)
