@@ -11,6 +11,9 @@ The platform combines country information, live APIs, data visualization, intera
 ## Home Page
 ![Home Page](screenshots/01-home-page.png)
 
+## Currency Converter
+![Currency Converter](screenshots/10-currency-converter.png)
+
 ## Country Search & Filtering
 ![Country Search](screenshots/03-country-search.png)
 
@@ -29,8 +32,6 @@ The platform combines country information, live APIs, data visualization, intera
 ## Bucket List Map
 ![Bucket List](screenshots/08-bucket-list-map.png)
 
-## World Statistics Dashboard
-![World Statistics](screenshots/08-world-statistics-dashboard.png)
 
 ## Explorer Dashboard Features
 ![Dashboard Features](screenshots/02-home-dashboard-features.png)
