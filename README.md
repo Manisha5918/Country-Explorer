@@ -11,9 +11,6 @@ The platform combines country information, live APIs, data visualization, intera
 ## Home Page
 ![Home Page](screenshots/01-home-page.png)
 
-## Currency Converter
-![Currency Converter](screenshots/10-currency-converter.png)
-
 ## Country Search & Filtering
 ![Country Search](screenshots/03-country-search.png)
 
@@ -40,8 +37,6 @@ The platform combines country information, live APIs, data visualization, intera
 ## Geography Quiz
 ![Quiz](screenshots/09-geography-quiz.png)
 
-## Currency Converter
-![Currency Converter](screenshots/10-currency-converter.png)
 
 ## Dark Mode
 ![Dark Mode](screenshots/12-dark-mode.png)
