@@ -98,7 +98,7 @@ Comparison includes:
 - Currency
 - Weather information
 
-Provides a simple and clear comparison experience.
+Provides a simple and clear comparison experience
 
 
 ---
